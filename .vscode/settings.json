@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "musical_notes.h": "c",
+        "stm32f031x6.h": "c",
+        "display.h": "c",
+        "stdlib.h": "c",
+        "stdint.h": "c"
+    }
+}

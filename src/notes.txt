@@ -1,0 +1,22 @@
+options for random -> random speed/ direction from hitting the rectangle
+random block colours
+random sound when hitting the block
+random power when hitting the up or down button
+
+blocks get hit and fall down and are removed from the game -> but while in play the ball bounces off the brick only once. as it 
+is falling it is out of play, so it will just fall through anything else.
+
+restart and quit functions
+
+when game is started main menu is shown,
+when quit function is called, ball gets hidden and stops moving, rectangle gets hidden and main menu gets called
+    show =0; showrect =0; brick.isHit =0;
+
+begin with the menu function
+menu function:
+    clear the screen, nothing moving, everything set to 0, show the menu items and wait for down button pressed.
+
+pause:
+    stop the ball moving and stop the rectangle moving.
+
+adding score to show at the bottom right, score gets incremented every time it hits a ball and resets when i quit
