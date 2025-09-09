@@ -27,5 +27,4 @@ This repository contains the source code and assets for running Atari Breakout o
 ## Getting Started
 Refer to the `platformio.ini` file for build configuration. Source code is located in the `src/` directory, and assets are in the `assets/` folder.
 
-## License
-Specify your license here if applicable.
+
