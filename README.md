@@ -4,7 +4,7 @@ This project is a simple implementation of Atari Breakout for Arduino, bringing 
 
 ## Authors
 This was a joint project by:
-- Samuel Manoli
+- Samuel Manoli 
 - Ephraim Kuedituka
 - Joeal Joseph
 
